@@ -10,8 +10,8 @@ _This project webpage was built with the intent of accepting user inputs and par
 
 ## Setup/Installation Requirements
 
-* _First, clone this repository to your desktop by navigating to the desktop in the Terminal ("cd desktop") and then entering "git clone [Repository-Name-Here]"._
-* _Once the directory is cloned to your desktop, open the directory in the Terminal ("cd Places-weave-been")._
+* _First, clone this repository to your desktop by navigating to the desktop in the Terminal ("cd desktop") and then entering "git clone https://github.com/jamisoncozart/To-do-list-practice/"._
+* _Once the directory is cloned to your desktop, open the directory in the Terminal ("cd To-do-list-practice-master")._
 * _After that open the directory in Visual Studio Code by entering the command "code ." in the Terminal._
 * _Open index.html in a browser of your choice to view the project.(Google Chrome is recomended.)_
 
